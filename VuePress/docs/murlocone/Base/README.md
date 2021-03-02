@@ -28,7 +28,9 @@
 
 ### 1.6 数组
 [766. 托普利茨矩阵](https://www.notion.so/wanliming/LeetCode-766-85a787bdaf734ae5862867f13c4aeb54)
-[896. 单调数列](https://www.notion.so/wanliming/896-28a01bd5d88141ce9ae31c99edb16348)q
+
+[896. 单调数列](https://www.notion.so/wanliming/896-28a01bd5d88141ce9ae31c99edb16348)
+
 [304. 二维区域和检索 - 矩阵不可变](https://www.notion.so/wanliming/304-68c1e9edf0bf433592b1d48a05aabc6c)
 
 ### 1.7 字符串
