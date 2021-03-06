@@ -36,6 +36,8 @@
 ### 1.7 字符串
 [395. 至少有 K 个重复字符的最长子串](https://www.notion.so/wanliming/395-K-2d668ae6c90246ffb5c5ad0c62e1e8ce)
 
+### 1.8 Stack Queue
+[232. 用栈实现队列](https://www.notion.so/wanliming/232-7aa4dfb10d814ea7819fa5ed07e87a4d)
 
 ## 2. Design
 ### 2.1 
