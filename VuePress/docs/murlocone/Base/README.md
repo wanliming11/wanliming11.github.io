@@ -39,6 +39,9 @@
 ### 1.8 Stack Queue
 [232. 用栈实现队列](https://www.notion.so/wanliming/232-7aa4dfb10d814ea7819fa5ed07e87a4d)
 
+### 1.9 动态规划
+[354. 俄罗斯套娃信封问题](https://www.notion.so/wanliming/354-804b60f0756f4ee5ae840326caadd804)
+
 ## 2. Design
 ### 2.1 
 
