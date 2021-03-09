@@ -36,6 +36,7 @@
 
 ### 1.7 字符串
 [395. 至少有 K 个重复字符的最长子串](https://www.notion.so/wanliming/395-K-2d668ae6c90246ffb5c5ad0c62e1e8ce)
+[1047. 删除字符串中的所有相邻重复项](https://www.notion.so/wanliming/1047-70c46f65464847fd91ee86755b0574d6)
 
 ### 1.8 Stack Queue
 [232. 用栈实现队列](https://www.notion.so/wanliming/232-7aa4dfb10d814ea7819fa5ed07e87a4d)
