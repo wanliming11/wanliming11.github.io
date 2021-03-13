@@ -50,7 +50,8 @@
 [331. 验证二叉树的前序序列化](https://www.notion.so/wanliming/331-650b79b73abe4afc80a5ea7e8ffb95b5)
 
 ## 2. Design
-### 2.1 
+### 2.1 设计字典
+ [705. 设计哈希集合](https://www.notion.so/wanliming/705-f8043f3ea0bc412b818c9287c01b8552)
 
 
 
