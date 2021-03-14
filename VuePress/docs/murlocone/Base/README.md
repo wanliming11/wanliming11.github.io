@@ -49,6 +49,9 @@
 [20. 有效的括号](https://www.notion.so/wanliming/20-9aa3aba274894e94ada9a247ea662a41)
 [331. 验证二叉树的前序序列化](https://www.notion.so/wanliming/331-650b79b73abe4afc80a5ea7e8ffb95b5)
 
+### 1.11 链表
+[21. 合并两个有序链表](https://www.notion.so/wanliming/21-699bfaf04b004736abcfec57b19ffc71)
+
 ## 2. Design
 ### 2.1 设计字典
  [705. 设计哈希集合](https://www.notion.so/wanliming/705-f8043f3ea0bc412b818c9287c01b8552)
