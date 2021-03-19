@@ -58,7 +58,8 @@
 ## 2. Design
 ### 2.1 设计字典
  [705. 设计哈希集合](https://www.notion.so/wanliming/705-f8043f3ea0bc412b818c9287c01b8552)
-
+### 2.2 设计停车系统
+[1603. 设计停车系统](https://www.notion.so/wanliming/1603-00b5626ea4fc4f65b75864dfa146b0ca)
 
 
 
