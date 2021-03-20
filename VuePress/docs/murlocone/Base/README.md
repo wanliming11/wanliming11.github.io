@@ -51,6 +51,7 @@
 ### 1.10 栈
 [20. 有效的括号](https://www.notion.so/wanliming/20-9aa3aba274894e94ada9a247ea662a41)
 [331. 验证二叉树的前序序列化](https://www.notion.so/wanliming/331-650b79b73abe4afc80a5ea7e8ffb95b5)
+[150. 逆波兰表达式求值](https://www.notion.so/wanliming/150-58f7cd63df8f453c9e304bf3aa3fac8f)
 
 ### 1.11 链表
 [21. 合并两个有序链表](https://www.notion.so/wanliming/21-699bfaf04b004736abcfec57b19ffc71)
