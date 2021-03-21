@@ -37,6 +37,8 @@
 [896. 单调数列](https://www.notion.so/wanliming/896-28a01bd5d88141ce9ae31c99edb16348)
 
 [304. 二维区域和检索 - 矩阵不可变](https://www.notion.so/wanliming/304-68c1e9edf0bf433592b1d48a05aabc6c)
+[766. 托普利茨矩阵](https://www.notion.so/wanliming/73-d9e4b12ac48f4ecc9fe96a7c92424cc8)
+
 
 ### 1.7 字符串
 [395. 至少有 K 个重复字符的最长子串](https://www.notion.so/wanliming/395-K-2d668ae6c90246ffb5c5ad0c62e1e8ce)
