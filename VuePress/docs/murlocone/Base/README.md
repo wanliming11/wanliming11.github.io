@@ -58,6 +58,9 @@
 ### 1.11 链表
 [21. 合并两个有序链表](https://www.notion.so/wanliming/21-699bfaf04b004736abcfec57b19ffc71)
 
+### 1.12 bit
+[191. 位1的个数](https://www.notion.so/wanliming/191-1-82849202b06c4eac91d1a54d4fd2e5f3)
+
 ## 2. Design
 ### 2.1 设计字典
  [705. 设计哈希集合](https://www.notion.so/wanliming/705-f8043f3ea0bc412b818c9287c01b8552)
