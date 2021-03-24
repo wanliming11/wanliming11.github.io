@@ -66,7 +66,8 @@
  [705. 设计哈希集合](https://www.notion.so/wanliming/705-f8043f3ea0bc412b818c9287c01b8552)
 ### 2.2 设计停车系统
 [1603. 设计停车系统](https://www.notion.so/wanliming/1603-00b5626ea4fc4f65b75864dfa146b0ca)
-
+### 2.3 设计遍历
+[341. 扁平化嵌套列表迭代器](https://www.notion.so/wanliming/341-b205320cc13740c68d1e33529f7e3bf1)
 
 
 ## 3. GrowUp
