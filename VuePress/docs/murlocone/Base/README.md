@@ -57,6 +57,7 @@
 
 ### 1.11 链表
 [21. 合并两个有序链表](https://www.notion.so/wanliming/21-699bfaf04b004736abcfec57b19ffc71)
+[82. 删除排序链表中的重复元素 II](https://www.notion.so/wanliming/82-II-8fa4ea563ba34872ab844615b399632a)
 
 ### 1.12 bit
 [191. 位1的个数](https://www.notion.so/wanliming/191-1-82849202b06c4eac91d1a54d4fd2e5f3)
