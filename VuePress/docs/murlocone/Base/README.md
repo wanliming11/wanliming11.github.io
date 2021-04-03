@@ -78,6 +78,9 @@
 [341. 扁平化嵌套列表迭代器](https://www.notion.so/wanliming/341-b205320cc13740c68d1e33529f7e3bf1)
 
 
+## 3. Math
+[面试题 17.21. 直方图的水量](https://www.notion.so/wanliming/17-21-9af18160d96e4878a0240002e6e918ce)
+
 ## 3. GrowUp
 ### 3.1 
 [时间的尽头](https://www.notion.so/wanliming/23ead907c0234a7dbab3240a4f27fbea)
