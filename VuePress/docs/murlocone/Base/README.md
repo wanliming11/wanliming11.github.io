@@ -41,6 +41,7 @@
 [74. 搜索二维矩阵](https://www.notion.so/wanliming/74-f24a6a0994cd4e44b87c113022a9734d)
 [88. 合并两个有序数组](https://www.notion.so/wanliming/88-f08a332bb04945f0bb386be2b7a38d77)
 [80. 删除有序数组中的重复项 II](https://www.notion.so/wanliming/80-II-311cbc07a91c42fbb7221d9fb7685c7e)
+[81. 搜索旋转排序数组 II](https://www.notion.so/wanliming/81-II-b3e387f3f9394460a4471d09d04754ba)
 
 ### 1.7 字符串
 [395. 至少有 K 个重复字符的最长子串](https://www.notion.so/wanliming/395-K-2d668ae6c90246ffb5c5ad0c62e1e8ce)
