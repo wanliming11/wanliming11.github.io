@@ -33,6 +33,7 @@
 [54. 螺旋矩阵](https://www.notion.so/wanliming/54-3be1a6cfb71647079bc86e9398261f96)
 [59. 螺旋矩阵 II](https://www.notion.so/wanliming/59-II-62d83f9387c34a8b9f2856cd6f34f9fa)
 [26. 删除有序数组中的重复项](https://www.notion.so/wanliming/26-b8d9ae573265495b854eccfb72fc589d)
+[154. 寻找旋转排序数组中的最小值 II](https://www.notion.so/wanliming/154-II-765df6e40e574f618598dc67a54aa434)
 
 [896. 单调数列](https://www.notion.so/wanliming/896-28a01bd5d88141ce9ae31c99edb16348)
 
