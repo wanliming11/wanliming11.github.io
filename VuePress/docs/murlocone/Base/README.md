@@ -54,6 +54,7 @@
 ### 1.9 动态规划
 [354. 俄罗斯套娃信封问题](https://www.notion.so/wanliming/354-804b60f0756f4ee5ae840326caadd804)
 [1143. 最长公共子序列](https://www.notion.so/wanliming/1143-153da159af5d4861997752aa1d06fb31)
+[264. 丑数 II](https://www.notion.so/wanliming/264-II-599852c8c10f4f438ec9718a8483ff8f)
 
 ### 1.10 栈
 [20. 有效的括号](https://www.notion.so/wanliming/20-9aa3aba274894e94ada9a247ea662a41)
