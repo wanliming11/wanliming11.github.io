@@ -45,6 +45,7 @@
 [81. 搜索旋转排序数组 II](https://www.notion.so/wanliming/81-II-b3e387f3f9394460a4471d09d04754ba)
 [179. 最大数](https://www.notion.so/wanliming/179-5098c508d68b48fb8c8ac52884a82dcf)
 [152. 乘积最大子数组](https://www.notion.so/wanliming/152-a783c21575ee4e4e9cca3c0bbb1faed6)
+[27. 移除元素](https://www.notion.so/wanliming/27-7df122cd822a436d8e1bce72cbef5cd4)
 
 ### 1.7 字符串
 [395. 至少有 K 个重复字符的最长子串](https://www.notion.so/wanliming/395-K-2d668ae6c90246ffb5c5ad0c62e1e8ce)
