@@ -46,18 +46,18 @@
 - [27. 移除元素](https://www.notion.so/wanliming/27-7df122cd822a436d8e1bce72cbef5cd4)
 
 ### 1.7 字符串
-[395. 至少有 K 个重复字符的最长子串](https://www.notion.so/wanliming/395-K-2d668ae6c90246ffb5c5ad0c62e1e8ce)
-[1047. 删除字符串中的所有相邻重复项](https://www.notion.so/wanliming/1047-70c46f65464847fd91ee86755b0574d6)
+- [395. 至少有 K 个重复字符的最长子串](https://www.notion.so/wanliming/395-K-2d668ae6c90246ffb5c5ad0c62e1e8ce)
+- [1047. 删除字符串中的所有相邻重复项](https://www.notion.so/wanliming/1047-70c46f65464847fd91ee86755b0574d6)
 
 ### 1.8 Stack Queue
-[232. 用栈实现队列](https://www.notion.so/wanliming/232-7aa4dfb10d814ea7819fa5ed07e87a4d)
+- [232. 用栈实现队列](https://www.notion.so/wanliming/232-7aa4dfb10d814ea7819fa5ed07e87a4d)
 
 ### 1.9 动态规划
-[354. 俄罗斯套娃信封问题](https://www.notion.so/wanliming/354-804b60f0756f4ee5ae840326caadd804)
-[1143. 最长公共子序列](https://www.notion.so/wanliming/1143-153da159af5d4861997752aa1d06fb31)
-[264. 丑数 II](https://www.notion.so/wanliming/264-II-599852c8c10f4f438ec9718a8483ff8f)
-[213. 打家劫舍 II](https://www.notion.so/wanliming/213-II-cd4639f8528b49f19178dffd623f0085)
-[368. 最大整除子集](https://www.notion.so/wanliming/368-62daa6c2942c48248019ccdad0fa846d)
+- [354. 俄罗斯套娃信封问题](https://www.notion.so/wanliming/354-804b60f0756f4ee5ae840326caadd804)
+- [1143. 最长公共子序列](https://www.notion.so/wanliming/1143-153da159af5d4861997752aa1d06fb31)
+- [264. 丑数 II](https://www.notion.so/wanliming/264-II-599852c8c10f4f438ec9718a8483ff8f)
+- [213. 打家劫舍 II](https://www.notion.so/wanliming/213-II-cd4639f8528b49f19178dffd623f0085)
+- [368. 最大整除子集](https://www.notion.so/wanliming/368-62daa6c2942c48248019ccdad0fa846d)
 
 ### 1.10 栈
 - [20. 有效的括号](https://www.notion.so/wanliming/20-9aa3aba274894e94ada9a247ea662a41)
@@ -82,19 +82,19 @@
 
 ## 2. Design
 ### 2.1 设计字典
- [705. 设计哈希集合](https://www.notion.so/wanliming/705-f8043f3ea0bc412b818c9287c01b8552)
+ - [705. 设计哈希集合](https://www.notion.so/wanliming/705-f8043f3ea0bc412b818c9287c01b8552)
 ### 2.2 设计停车系统
-[1603. 设计停车系统](https://www.notion.so/wanliming/1603-00b5626ea4fc4f65b75864dfa146b0ca)
+- [1603. 设计停车系统](https://www.notion.so/wanliming/1603-00b5626ea4fc4f65b75864dfa146b0ca)
 ### 2.3 设计遍历
-[341. 扁平化嵌套列表迭代器](https://www.notion.so/wanliming/341-b205320cc13740c68d1e33529f7e3bf1)
-[208. 实现 Trie (前缀树)](https://www.notion.so/wanliming/208-Trie-59c4cfcb9858464c846dbbf0729407f1)
+- [341. 扁平化嵌套列表迭代器](https://www.notion.so/wanliming/341-b205320cc13740c68d1e33529f7e3bf1)
+- [208. 实现 Trie (前缀树)](https://www.notion.so/wanliming/208-Trie-59c4cfcb9858464c846dbbf0729407f1)
 
 
 ## 3. Math
-[面试题 17.21. 直方图的水量](https://www.notion.so/wanliming/17-21-9af18160d96e4878a0240002e6e918ce)
-[781. 森林中的兔子](https://www.notion.so/wanliming/781-ba51a9271a7940e6bba14a07da5d496e)
-[263. 丑数](https://www.notion.so/wanliming/263-dbf10720d8bf45c98ae809c83335ec46)
+- [面试题 17.21. 直方图的水量](https://www.notion.so/wanliming/17-21-9af18160d96e4878a0240002e6e918ce)
+- [781. 森林中的兔子](https://www.notion.so/wanliming/781-ba51a9271a7940e6bba14a07da5d496e)
+- [263. 丑数](https://www.notion.so/wanliming/263-dbf10720d8bf45c98ae809c83335ec46)
 
 ## 3. GrowUp
 ### 3.1 
-[时间的尽头](https://www.notion.so/wanliming/23ead907c0234a7dbab3240a4f27fbea)
+- [时间的尽头](https://www.notion.so/wanliming/23ead907c0234a7dbab3240a4f27fbea)
