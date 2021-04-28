@@ -21,6 +21,7 @@
 - [16. 最接近的三数之和](https://www.notion.so/wanliming/16-92363d28f4424b1799500af162f8f843)
 
 - [1438. 绝对差不超过限制的最长连续子数组](https://www.notion.so/wanliming/1438-28e8cb945bd84e28a09fbd2621c8f7cd)
+- [633. 平方数之和](https://www.notion.so/wanliming/633-9686aa66880a4db990104ca8fc413569)
 
 ### 1.5 快慢指针
 - [19. 删除链表的倒数第 N 个结点](https://www.notion.so/wanliming/LeetCode-19-N-21ad120986854979995200ed3e00c2eb)
