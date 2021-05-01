@@ -91,6 +91,7 @@
 ### 2.3 设计遍历
 - [341. 扁平化嵌套列表迭代器](https://www.notion.so/wanliming/341-b205320cc13740c68d1e33529f7e3bf1)
 - [208. 实现 Trie (前缀树)](https://www.notion.so/wanliming/208-Trie-59c4cfcb9858464c846dbbf0729407f1)
+- [690. 员工的重要性](https://www.notion.so/wanliming/690-8a21dca1b72b48c1869efd4da796a618)
 
 
 ## 3. Math
