@@ -75,7 +75,8 @@
 ### 1.12 bit
 - [191. 位1的个数](https://www.notion.so/wanliming/191-1-82849202b06c4eac91d1a54d4fd2e5f3)
 - [190. 颠倒二进制位](https://www.notion.so/wanliming/190-ab52abce125a473ebf9006a6d6d327e8)
-- [1006. 笨阶乘](https://www.notion.so/wanliming/1006-cf2926780f18481682071a0eec8f8f1b)1006. 笨阶乘
+- [1006. 笨阶乘](https://www.notion.so/wanliming/1006-cf2926780f18481682071a0eec8f8f1b)
+- [1720. 解码异或后的数组](https://www.notion.so/wanliming/1720-ffa31c90ca84438fa90662480928bf07)
 
 
 ### 1.13 二叉树
