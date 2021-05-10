@@ -84,6 +84,7 @@
 - [783. 二叉搜索树节点最小距离](https://www.notion.so/wanliming/783-08b67699279e441db5b911bfbe1207fd)
 - [897. 递增顺序搜索树](https://www.notion.so/wanliming/897-bc97b2fd62664bac9377174ecd8c1a57)
 - [938. 二叉搜索树的范围和](https://www.notion.so/wanliming/938-a8c3d213153b4c54a6a34d800a48fa5e)
+- [872. 叶子相似的树](https://www.notion.so/wanliming/872-59d55e9bd6dc414e9fa416b4d9708c92)
 
 ## 2. Design
 ### 2.1 设计字典
