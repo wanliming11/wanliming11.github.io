@@ -77,7 +77,7 @@
 - [190. 颠倒二进制位](https://www.notion.so/wanliming/190-ab52abce125a473ebf9006a6d6d327e8)
 - [1006. 笨阶乘](https://www.notion.so/wanliming/1006-cf2926780f18481682071a0eec8f8f1b)
 - [1720. 解码异或后的数组](https://www.notion.so/wanliming/1720-ffa31c90ca84438fa90662480928bf07)
-
+- [1734. 解码异或后的排列](https://www.notion.so/wanliming/1734-d19006f9f2e74d229f2b66ffd387ddda)
 
 ### 1.13 二叉树
 - [173. 二叉搜索树迭代器](https://www.notion.so/wanliming/173-2a6f66971cc4481386e323e52426f8d4)
