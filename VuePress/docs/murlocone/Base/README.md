@@ -62,6 +62,7 @@
 - [213. 打家劫舍 II](https://www.notion.so/wanliming/213-II-cd4639f8528b49f19178dffd623f0085)
 - [368. 最大整除子集](https://www.notion.so/wanliming/368-62daa6c2942c48248019ccdad0fa846d)
 - [740. 删除并获得点数](https://www.notion.so/wanliming/740-87150702b3b74a91a782a09d7b0ceab6)
+- [121. 买卖股票的最佳时机](https://www.notion.so/wanliming/121-df86340ba76e42e9843f106f805336f3)
 
 ### 1.10 栈
 - [20. 有效的括号](https://www.notion.so/wanliming/20-9aa3aba274894e94ada9a247ea662a41)
