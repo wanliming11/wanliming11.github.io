@@ -47,6 +47,7 @@
 - [27. 移除元素](https://www.notion.so/wanliming/27-7df122cd822a436d8e1bce72cbef5cd4)
 - [1011. 在 D 天内送达包裹的能力](https://www.notion.so/wanliming/1011-D-1a134eda77bc4e1abd4a0e6aacf843ab)
 - [1035. 不相交的线](https://www.notion.so/wanliming/1035-e571f2e0c6414dfaabd182db52bb757f)
+- [35. 搜索插入位置](https://www.notion.so/wanliming/35-dfe5742663e54199a4751d86039f0663)
 
 ### 1.7 字符串
 - [395. 至少有 K 个重复字符的最长子串](https://www.notion.so/wanliming/395-K-2d668ae6c90246ffb5c5ad0c62e1e8ce)
