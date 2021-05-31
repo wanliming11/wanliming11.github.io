@@ -110,6 +110,7 @@
 - [1486. 数组异或操作](https://www.notion.so/wanliming/1486-215109689cb24431bbda89425dc91459)
 - [461. 汉明距离](https://www.notion.so/wanliming/461-44020cf22e1949d48b3f2c4861cc3730)
 - [231. 2 的幂](https://www.notion.so/wanliming/231-2-db1f6b1777ee4d4a967d999079540c81)
+- [342. 4的幂](https://www.notion.so/wanliming/342-4-e271c85c5579485eac35f214ce5863d6)
 
 ## 3. GrowUp
 ### 3.1 
