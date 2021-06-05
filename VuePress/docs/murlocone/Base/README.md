@@ -78,6 +78,7 @@
 - [82. 删除排序链表中的重复元素 II](https://www.notion.so/wanliming/82-II-8fa4ea563ba34872ab844615b399632a)
 - [83. 删除排序链表中的重复元素](https://www.notion.so/wanliming/83-af02ad1af5054eb683ea917133f286ce)
 - [141. 环形链表](https://www.notion.so/wanliming/141-294f52600dbf467db406234ff3539cc9)
+- [203. 移除链表元素](https://www.notion.so/wanliming/203-43fdb2beacd647d1876f5b6166449d5c)
 
 ### 1.12 bit
 - [191. 位1的个数](https://www.notion.so/wanliming/191-1-82849202b06c4eac91d1a54d4fd2e5f3)
