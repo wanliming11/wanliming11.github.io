@@ -51,6 +51,8 @@
 - [53. 最大子序和](https://www.notion.so/wanliming/53-e4986f9efc9a41bc85954d80a0e04c38)
 - [125. 验证回文串](https://www.notion.so/wanliming/125-41276924f83449629a62472096424368)
 - [523. 连续的子数组和](https://www.notion.so/wanliming/523-738f8bef1eb74372ab7a62da00f41d96)
+- [118. 杨辉三角](https://www.notion.so/wanliming/118-09ea4337474144d58000bb5af42a0f9a)
+
 
 ### 1.7 字符串
 - [395. 至少有 K 个重复字符的最长子串](https://www.notion.so/wanliming/395-K-2d668ae6c90246ffb5c5ad0c62e1e8ce)
