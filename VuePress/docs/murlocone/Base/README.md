@@ -52,6 +52,7 @@
 - [125. 验证回文串](https://www.notion.so/wanliming/125-41276924f83449629a62472096424368)
 - [523. 连续的子数组和](https://www.notion.so/wanliming/523-738f8bef1eb74372ab7a62da00f41d96)
 - [118. 杨辉三角](https://www.notion.so/wanliming/118-09ea4337474144d58000bb5af42a0f9a)
+- [119. 杨辉三角 II](https://www.notion.so/wanliming/119-II-0259bcb6bd2343a5a9191427cfaea828)
 
 
 ### 1.7 字符串
