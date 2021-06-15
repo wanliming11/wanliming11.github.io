@@ -51,6 +51,7 @@
 - [53. 最大子序和](https://www.notion.so/wanliming/53-e4986f9efc9a41bc85954d80a0e04c38)
 - [125. 验证回文串](https://www.notion.so/wanliming/125-41276924f83449629a62472096424368)
 - [523. 连续的子数组和](https://www.notion.so/wanliming/523-738f8bef1eb74372ab7a62da00f41d96)
+- [852. 山脉数组的峰顶索引](https://www.notion.so/wanliming/852-9d450feddf1140f499505c1b2e318fc2)
 
 #### [杨辉三角形](https://www.notion.so/wanliming/e9bf96ae618b4adeac3d825049967a32)
 - [118. 杨辉三角](https://www.notion.so/wanliming/118-09ea4337474144d58000bb5af42a0f9a)
