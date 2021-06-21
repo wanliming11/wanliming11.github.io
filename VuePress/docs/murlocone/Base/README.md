@@ -97,7 +97,10 @@
 - [1720. 解码异或后的数组](https://www.notion.so/wanliming/1720-ffa31c90ca84438fa90662480928bf07)
 - [1734. 解码异或后的排列](https://www.notion.so/wanliming/1734-d19006f9f2e74d229f2b66ffd387ddda)
 
-### 1.13 二叉树
+### 1.13 树
+#### 树的基础操作
+- [145. 二叉树的后序遍历](https://www.notion.so/wanliming/145-a6c7fd696b81481cb76fdf14cbfdb931)
+
 - [173. 二叉搜索树迭代器](https://www.notion.so/wanliming/173-2a6f66971cc4481386e323e52426f8d4)
 - [783. 二叉搜索树节点最小距离](https://www.notion.so/wanliming/783-08b67699279e441db5b911bfbe1207fd)
 - [897. 递增顺序搜索树](https://www.notion.so/wanliming/897-bc97b2fd62664bac9377174ecd8c1a57)
