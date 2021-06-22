@@ -52,6 +52,7 @@
 - [125. 验证回文串](https://www.notion.so/wanliming/125-41276924f83449629a62472096424368)
 - [523. 连续的子数组和](https://www.notion.so/wanliming/523-738f8bef1eb74372ab7a62da00f41d96)
 - [852. 山脉数组的峰顶索引](https://www.notion.so/wanliming/852-9d450feddf1140f499505c1b2e318fc2)
+- [217. 存在重复元素](https://www.notion.so/wanliming/217-fc977eaf6849494092e52bac63247f8b)
 
 ### [组合](https://www.notion.so/wanliming/089f944b171d44bfb1f49078936e6138)
 - [1239. 串联字符串的最大长度](https://www.notion.so/wanliming/1239-320fbc00747f417b93863010fabc4592)
