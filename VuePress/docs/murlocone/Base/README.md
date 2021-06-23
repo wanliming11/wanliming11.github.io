@@ -130,6 +130,7 @@
 - [461. 汉明距离](https://www.notion.so/wanliming/461-44020cf22e1949d48b3f2c4861cc3730)
 - [231. 2 的幂](https://www.notion.so/wanliming/231-2-db1f6b1777ee4d4a967d999079540c81)
 - [342. 4的幂](https://www.notion.so/wanliming/342-4-e271c85c5579485eac35f214ce5863d6)
+- [剑指 Offer 15. 二进制中1的个数](https://www.notion.so/wanliming/Offer-15-1-9f3a94518d48456ca48395e876812d75)
 
 ## 3. GrowUp
 ### 3.1 
