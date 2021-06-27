@@ -15,6 +15,8 @@
 ### 1.3 字符串
 - [罗马数字转整数](https://www.notion.so/wanliming/Leetcode-13-42a5575c8e82481b965ae0e084242af1
 - [最长公共前缀](https://www.notion.so/wanliming/LeetCode-14-57568359fa35497a9b02abfc41c9bd34)
+#### 基础操作
+- [58. 最后一个单词的长度](https://www.notion.so/wanliming/58-7e3f7424871c4815887a855280d47540)
 
 ### 1.4  双指针
 - [15. 三数之和](https://www.notion.so/wanliming/LeetCode-15-c83e89efd0e54657a3733088154b01cd)
