@@ -139,6 +139,7 @@
 - [231. 2 的幂](https://www.notion.so/wanliming/231-2-db1f6b1777ee4d4a967d999079540c81)
 - [342. 4的幂](https://www.notion.so/wanliming/342-4-e271c85c5579485eac35f214ce5863d6)
 - [剑指 Offer 15. 二进制中1的个数](https://www.notion.so/wanliming/Offer-15-1-9f3a94518d48456ca48395e876812d75)
+- [69. x 的平方根](https://www.notion.so/wanliming/69-x-873962ea67c847e69de2a7a7024fece7)
 
 ## 3. GrowUp
 ### 3.1 
