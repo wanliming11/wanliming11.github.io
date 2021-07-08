@@ -130,6 +130,8 @@
 - [341. 扁平化嵌套列表迭代器](https://www.notion.so/wanliming/341-b205320cc13740c68d1e33529f7e3bf1)
 - [208. 实现 Trie (前缀树)](https://www.notion.so/wanliming/208-Trie-59c4cfcb9858464c846dbbf0729407f1)
 - [690. 员工的重要性](https://www.notion.so/wanliming/690-8a21dca1b72b48c1869efd4da796a618)
+### 2.4 最小栈
+- [155. 最小栈](https://www.notion.so/wanliming/155-c8c1267553e84abe9d15ede81276e57a)
 
 
 ## 3. Math
