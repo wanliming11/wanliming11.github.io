@@ -1,4 +1,4 @@
-# 基本功
+sh# 基本功
 
 ## 0. 基础思想
 - [横向和纵向思维的扩充](https://www.notion.so/wanliming/ef68d115d86040dda3b9c56459f170ce)
@@ -60,6 +60,7 @@
 - [1287. 有序数组中出现次数超过25%的元素](https://www.notion.so/wanliming/1287-25-ba1a4dce7e7540c7a5f66f190bc3a6fc)
 - [283. 移动零](https://www.notion.so/wanliming/283-b4b2c3a8f66748e1a1befb7e088c6d4f)
 - [66. 加一](https://www.notion.so/wanliming/66-5fbc2349fed34b45a0a004a07ca37da3)
+- [169. 多数元素](https://www.notion.so/wanliming/169-1c663075cb2b4c71b7eccb8906cae373)
 
 ### [组合](https://www.notion.so/wanliming/089f944b171d44bfb1f49078936e6138)
 - [1239. 串联字符串的最大长度](https://www.notion.so/wanliming/1239-320fbc00747f417b93863010fabc4592)
