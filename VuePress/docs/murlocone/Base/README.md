@@ -111,6 +111,7 @@ sh# 基本功
 - [1734. 解码异或后的排列](https://www.notion.so/wanliming/1734-d19006f9f2e74d229f2b66ffd387ddda)
 - [67.二进制求和](https://www.notion.so/wanliming/67-2d467d02835d45a4a2f2a126a0a2eae6)
 - [168. Excel表列名称](https://www.notion.so/wanliming/168-Excel-c0bc55bbaa0748ada3a99df06507c0c5)
+- [171. Excel表列序号](https://www.notion.so/wanliming/171-Excel-cc3b9b0978df4e919c83c4d570acaabc)
 
 ### 1.13 树
 #### 树的基础操作
