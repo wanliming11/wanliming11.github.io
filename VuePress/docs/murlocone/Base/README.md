@@ -62,6 +62,7 @@ sh# 基本功
 - [283. 移动零](https://www.notion.so/wanliming/283-b4b2c3a8f66748e1a1befb7e088c6d4f)
 - [66. 加一](https://www.notion.so/wanliming/66-5fbc2349fed34b45a0a004a07ca37da3)
 - [169. 多数元素](https://www.notion.so/wanliming/169-1c663075cb2b4c71b7eccb8906cae373)
+- [389. 找不同](https://www.notion.so/wanliming/389-79c12da115014c6080233f62bbb48597)
 
 ### [组合](https://www.notion.so/wanliming/089f944b171d44bfb1f49078936e6138)
 - [1239. 串联字符串的最大长度](https://www.notion.so/wanliming/1239-320fbc00747f417b93863010fabc4592)
