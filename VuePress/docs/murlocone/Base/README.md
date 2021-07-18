@@ -152,6 +152,7 @@ sh# 基本功
 - [剑指 Offer 15. 二进制中1的个数](https://www.notion.so/wanliming/Offer-15-1-9f3a94518d48456ca48395e876812d75)
 - [69. x 的平方根](https://www.notion.so/wanliming/69-x-873962ea67c847e69de2a7a7024fece7)
 - [172. 阶乘后的零](https://www.notion.so/wanliming/172-5bf05c89eca3437fb91ec437c134c82f)
+- [258. 各位相加](https://www.notion.so/wanliming/258-cefb8edb4f964306930c9e176470606b)
 
 ## 3. GrowUp
 ### 3.1 
