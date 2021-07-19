@@ -64,6 +64,7 @@ sh# 基本功
 - [169. 多数元素](https://www.notion.so/wanliming/169-1c663075cb2b4c71b7eccb8906cae373)
 - [389. 找不同](https://www.notion.so/wanliming/389-79c12da115014c6080233f62bbb48597)
 - [344. 反转字符串](https://www.notion.so/wanliming/344-2b24b7a234e14835b545055f2379aa76)
+- [219. 存在重复元素 II](https://www.notion.so/wanliming/219-II-a34f69881b8a4e61b956a4fe275fc355)
 
 ### [组合](https://www.notion.so/wanliming/089f944b171d44bfb1f49078936e6138)
 - [1239. 串联字符串的最大长度](https://www.notion.so/wanliming/1239-320fbc00747f417b93863010fabc4592)
